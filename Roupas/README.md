@@ -36,3 +36,7 @@ molhe somente o suficiente (pouca água) e deixe separada das outras em um lugar
 - Nunca coloque roupa colorida que solta tinta na máquina de lavar
 
 A lavagem desse tipo de roupa deve ser a seco
+
+## Máquina de lavar
+
+OBS: Nunca coloque roupa íntima (cueca) na máquina de lavar (ou qualquer roupa que tenha elástico)
